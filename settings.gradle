@@ -1,2 +1,3 @@
+include ':logcatlib'
 include ':app'
 rootProject.name = "LogcatDemo"
